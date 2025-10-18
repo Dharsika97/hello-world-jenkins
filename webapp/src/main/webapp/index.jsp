@@ -3,12 +3,12 @@
 <head>
 <style>
 body {
-  background-color: white;
+  background-color: purple;
 
 }
 
 h1 {
-  color: white;
+  color: purple;
   text-align: center;
 }
 
